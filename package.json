@@ -1,0 +1,25 @@
+{
+  "name": "@yrezgui/react-native-audio-recorder",
+  "version": "1.0.0",
+  "description": "Native audio recorder module in Objective-C for React-Native",
+  "main": "AudioRecorder.ios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrezgui/react-native-audio-recorder.git"
+  },
+  "keywords": [
+    "react-native",
+    "audio",
+    "recorder",
+    "ios"
+  ],
+  "author": "Yacine Rezgui <rezgui.y@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yrezgui/react-native-audio-recorder/issues"
+  },
+  "homepage": "https://github.com/yrezgui/react-native-audio-recorder#readme"
+}
