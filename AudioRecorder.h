@@ -7,7 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "RCTBridgeModule.h"
 
-@interface AudioRecorder : NSObject
+@interface AudioRecorder : NSObject<RCTBridgeModule>
 
 @end
